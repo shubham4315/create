@@ -2,7 +2,7 @@
 
 <!-- reference a person with github account (https://github.com/shubham4315) -->
 
-My friend [Shubham](https://github.com/shubham4315) and I have created a website where you can create your own T-Shirt designs with the help of AI.
+My friend [Nils](https://github.com/nilsertle) and I have created a website where you can create your own T-Shirt designs with the help of AI.
 
 ## How to use
 
