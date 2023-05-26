@@ -4,6 +4,9 @@
 
 My friend [Nils](https://github.com/nilsertle) and I have created a website where you can create your own T-Shirt designs with the help of AI.
 
+## Description
+👕 This project is an end-to-end website that allows users to create and order custom-designed t-shirts. 🌟 The platform features account creation functionality and a design tool that generates images from user prompts. 🤖 The ordering process is fully automated, with API calls to Printful for printing and fulfillment, and payment processing is handled via the Stripe API. 🔒 This project provides a secure and seamless user experience, enabling users to express their unique style through custom apparel. 🎨
+
 ## How to use
 
 1. Clone the repository
